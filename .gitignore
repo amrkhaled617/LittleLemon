@@ -48,3 +48,6 @@ media
 
 # macOS
 .DS_Store
+
+# Django migrations
+**/migrations/
